@@ -8,7 +8,7 @@ The homepage is designed to display excerpts from other pages on your site. This
 
 To show a page excerpt on the homepage, go to the page you want to feature and add the tag homepage. Once the tag has been added, the theme will automatically pull that page into the homepage and display it as a homepage section.
 
-<img src="images/img1.png" width:"70%;">
+<img src="images/img1.png" width="640">
 
 ### **Adding a video hero section to the homepage**
 
@@ -20,7 +20,7 @@ If you want to display overlay text on top of the video, add that text to the pa
 
 Once the video URL and content have been added, tag the Basic page with **homepage**. The theme will then use that page to display the video section on the homepage.
 
-![Img2](images/img2.png)
+<img src="images/img2.png" width="640">
 
 ### **Adding a CTA hero section to the homepage**
 
@@ -144,7 +144,7 @@ To add a thumbnail image to a Blog Post card, go to the relevant Blog Post page 
 The image file name must include the full word thumbnail for it to be used as the blog post thumbnail. For example: my-post-thumbnail.jpg  
 Avoid splitting the word or shortening it. The theme will only detect the image if the file name contains “thumbnail” exactly as one complete word.
 
-![Img3](images/img3.png)
+<img src="images/img3.png" width="640">
 
 ### **Adding featured blog posts**
 
@@ -175,7 +175,7 @@ The Core theme includes advanced layouts to highlight events and public initiati
 
 To display the Calendar page as a hero section, or excerpt, on the homepage, add the tag ***homepage*** to the Calendar page in the Control Panel.
 
-![Img4](images/img4.png)
+<img src="images/img4.png" width="640">
 
 ## **Event Page**
 
