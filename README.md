@@ -64,7 +64,7 @@ The default list of available colors can be found within the core-variables.scss
 
 To add a new color, declare a new variable with the prefix `--color-` . The value must be your desired hex code.  
 For example: if you want to create a lilac color, add  `--color-lilac: #D7C5E9;`  
-To assign this background color to the section, tag the page with `color\_bg\_home\_excerpt\_lilac`
+To assign this background color to the section, tag the page with **color\_bg\_home\_excerpt\_lilac**
 
 ### **Using the homepage as an excerpt container**
 
