@@ -8,7 +8,7 @@ The homepage is designed to display excerpts from other pages on your site. This
 
 To show a page excerpt on the homepage, go to the page you want to feature and add the tag homepage. Once the tag has been added, the theme will automatically pull that page into the homepage and display it as a homepage section.
 
-![Img1](images/img1.png)
+<img src="images/img1.png" width:"70%;">
 
 ### **Adding a video hero section to the homepage**
 
@@ -64,7 +64,7 @@ The default list of available colors can be found within the core-variables.scss
 
 To add a new color, declare a new variable with the prefix `--color-` . The value must be your desired hex code.  
 For example: if you want to create a lilac color, add  `--color-lilac: #D7C5E9;`  
-`To` assign this background color to the section, tag the page with color\_bg\_home\_excerpt\_lilac
+To assign this background color to the section, tag the page with `color\_bg\_home\_excerpt\_lilac`
 
 ### **Using the homepage as an excerpt container**
 
