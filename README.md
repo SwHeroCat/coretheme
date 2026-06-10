@@ -1,0 +1,2 @@
+# coretheme
+Nationbuilder Core Theme
